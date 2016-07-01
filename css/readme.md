@@ -36,7 +36,7 @@
 - https://thebigplans.ru/targetprice
 
 ## Куда и когда присылать
-- Работы присылать на dndushkin@yandex-team.ru.
+- Работы присылать на dndushkin@yandex-team.ru
   - Желательно ссылками на сверстанную страницу (например, разместить на бесплатном [GitHub Pages](https://pages.github.com/)) 
   - На крайний случай просто архивом
 - Тема: "ДЗ по CSS (фамилия и имя)" 
