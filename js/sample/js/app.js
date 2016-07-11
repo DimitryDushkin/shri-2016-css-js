@@ -5,7 +5,7 @@
 function App(el) {
     var appEl = el,
         doors = [
-            new Door0(0, onUnlock),
+            // new Door0(0, onUnlock),
             new Door1(1, onUnlock),
             new Door2(2, onUnlock),
             new Box(3, onUnlock)

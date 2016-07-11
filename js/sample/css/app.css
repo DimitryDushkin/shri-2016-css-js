@@ -184,3 +184,57 @@ body {
 .door-riddle__button_pressed {
     background-color: #F3E5D9;
 }
+
+.pinch {
+    position: relative;
+    height: 100%;
+}
+
+.pinch__button {
+    position: absolute;
+    top: 50%;
+    margin-top: -32px;
+
+    width: 64px;
+    height: 64px;
+    border-radius: 64px;
+    background-color: #583319;
+    border: 1px solid #F3E9E0;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .4);
+
+    transition: background-color .3s;
+
+    z-index: 1;
+}
+
+.pinch__button_pressed {
+    background-color: #F3E5D9;
+}
+
+.pinch__button_0 {
+    left: 32px;
+}
+
+.pinch__button_1 {
+    right: 32px;
+}
+
+.pinch__button-target {
+    position: absolute;
+
+    width: 64px;
+    height: 64px;
+    border-radius: 64px;
+    background-color: #30231A;
+    border: 1px solid #919192;
+}
+
+.pinch__button-target_0 {
+    top: 32px;
+    left: 32px;
+}
+
+.pinch__button-target_1 {
+    bottom: 32px;
+    right: 32px;
+}
